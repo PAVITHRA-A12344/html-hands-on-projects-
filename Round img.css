@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<h2>Rounded Images</h2>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+</head>
+<body>
+
+
+
+<img src="https://tinyurl.com/3bhd6np5" alt="Avatar" style="width:200px">
+
+</body>
+</html> 
+
+
+
+img {
+  border-radius: 70%;
+}
